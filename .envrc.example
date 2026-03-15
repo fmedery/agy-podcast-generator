@@ -1,0 +1,9 @@
+# The .envrc file is the core configuration file for direnv a shell extension 
+# that automatically loads and unloads environment variables as you navigate between directorie
+
+# Set the active Google Cloud user account (email address)
+export CLOUDSDK_CORE_ACCOUNT="user@example.com"
+
+# Existing project and region settings
+export CLOUDSDK_CORE_PROJECT="your-project-id"
+export CLOUDSDK_COMPUTE_REGION="us-central1"
