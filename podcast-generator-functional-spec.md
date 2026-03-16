@@ -41,7 +41,7 @@ A user who wants to consume news content in an audio format, tailored to their i
    *   **Crucial Step:** The developer must request or be provided with a recent screenshot of the target `CUSTOMER_SITE` page to ensure the layout, spacing, and styling are implemented to be as close to the real site as possible.
    *   It should prominently feature the National Bank of Canada logo and utilize its exact official color palette (predominantly NBC Red, Polar, Tundora, black, and white). The layout must specifically include:
    *   **Dual-Tier Navigation:** A top dark gray bar for audience segments (Personal, Business, etc.) and utilities, alongside a lower, white logo bar with primary banking navigation links.
-   *   **Hero Banner:** A prominent, full-width top banner featuring a sharp diagonal NBC Red background element on the left, an embedded corporate portrait photo on the right, and clear typography for a bold call-to-action. it is important to generate an image if needed.
+   *   **Hero Banner:** A prominent, full-width top banner featuring a sharp diagonal NBC Red background element on the left, an embedded corporate portrait photo on the right, and clear typography for a bold call-to-action. if a person is present on the example, generate an image of a person.
    *   **Component Styling:** Flat UI components (no rounded borders or drop shadows) with generous padding and sharp angles to accurately replicate the `CUSTOMER_SITE` experience.
 *   **Usability:** The UI should be intuitive and easy to navigate, allowing users to effortlessly manage feeds and generate podcasts.
 *   **Responsiveness:** The application should provide timely feedback to the user, especially during podcast generation, to indicate progress or completion.
