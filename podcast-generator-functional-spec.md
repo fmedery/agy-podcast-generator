@@ -1,12 +1,9 @@
-# Functional Specification: Podcast Generator
-
-
 ## 1. Introduction
-This document outlines the functional requirements for the Podcast Generator application. Its purpose is to provide a clear understanding of the application's core features and user interactions, serving as a foundation for subsequent technical design and development.
+This document outlines the functional requirements for the Financial News Podcast Generator application. Its purpose is to provide a clear understanding of the application's core features and user interactions, serving as a foundation for subsequent technical design and development.
 
 
 ## 2. Goal
-The primary goal of the application is to enable users to easily generate personalized audio podcasts from the latest articles published in their preferred RSS feeds.
+The primary goal of the application is to enable users to easily generate personalized audio podcasts from the latest articles published in their preferred financial news RSS feeds.
 
 
 ## 3. User Roles
